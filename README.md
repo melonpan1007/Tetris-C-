@@ -3,6 +3,6 @@
 ## Project Status
 This project is currently **in progress**. Updates will be made as development continues.
 
-
-## Link
-[YouTube Link]([YOUR_YOUTUBE_LINK_HERE](https://youtu.be/jcUctrLC-7M?si=JxFnnUGPTwCOLlqp))
+<!-- For personal reference only:
+[YouTube Link](https://youtu.be/jcUctrLC-7M?si=JxFnnUGPTwCOLlqp)
+-->
